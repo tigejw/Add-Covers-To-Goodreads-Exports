@@ -17,7 +17,7 @@ npm install
 
 - Place your Goodreads Export File in the \_data folder
 
-  **IMPORTANT:**: file must be called "goodreads_library_export.csv"
+  **IMPORTANT**: file must be called "goodreads_library_export.csv"
 
 - Run ```node addCoversToExport.js``` to start the program.
 
