@@ -29,11 +29,11 @@ npm install
 
 Existing Columns
 ```
-Book Id, TItle, Author...
+Book Id, Title, Author...
 ```
 Updated Columns
 ```
-Book Id, TItle, Author... cover_url
+Book Id, Title, Author... cover_url
 ```
 
 # Development
