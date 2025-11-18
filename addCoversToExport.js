@@ -15,6 +15,7 @@ async function proccessBooks() {
       outputCSV,
       "utf8"
     );
+    console.log("Successfully added covers to goodreads_library_export.csv")
   } catch (err) {
     console.error("error writing csv file:", err);
     return null
