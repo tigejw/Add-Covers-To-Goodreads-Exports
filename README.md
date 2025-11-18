@@ -21,13 +21,13 @@ npm install
 
 - Run ```node addCoversToExport.js``` to start the program.
 
-- Wait till you see the "Successfully added covers to goodreads_library_export.csv" message in your terminal.
+- Wait until you see the "Successfully added covers to goodreads_library_export.csv" message in your terminal.
 
 - Your goodreads_library_export.csv should now have an additional column at the end called cover_url with the relevant image links.
 
 # File Changes
 
-Exhisting Columns
+Existing Columns
 ```
 Book Id, TItle, Author...
 ```
